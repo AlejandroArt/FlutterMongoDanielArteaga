@@ -1,0 +1,31 @@
+[{
+    "_id": {
+      "$oid": "623b74fafa51945a1932c624"
+    },
+    "nombre": "Ortodoncia",
+    "Codigo": "110"
+  },{
+    "_id": {
+      "$oid": "623b750cfa51945a1932c625"
+    },
+    "nombre": "Implantes",
+    "Codigo": "111"
+  },{
+    "_id": {
+      "$oid": "623b751afa51945a1932c626"
+    },
+    "nombre": "Periodoncia",
+    "Codigo": "112"
+  },{
+    "_id": {
+      "$oid": "623b7529fa51945a1932c627"
+    },
+    "nombre": "Endodoncia",
+    "Codigo": "113"
+  },{
+    "_id": {
+      "$oid": "623b753bfa51945a1932c628"
+    },
+    "nombre": "Protesisi",
+    "Codigo": "114"
+  }]
